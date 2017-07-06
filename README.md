@@ -2,7 +2,7 @@
 
 how to run:
 
-rm -rf build
+.. _rm -rf build
 cd java
 javac Greeting.java 
 javah Greeting
